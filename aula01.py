@@ -1,0 +1,5 @@
+print('Olá mundo')
+print('Bom dia a todos presentes')
+print('tenho uma pergunta')
+print('para fazer')
+print('Tu é não binário?')
